@@ -15,3 +15,11 @@ SQL Scripts:
 create_tables.sql - Creates the necessary tables in the database.
 insert_data.sql - Inserts sample data into the tables.
 queries.sql - Contains sample SQL queries for searching and filtering data.
+
+Features:
+View listings of houses and businesses.
+Search properties by various criteria.
+Access information about agents and buyers.
+
+License
+This project is licensed under the MIT License.
